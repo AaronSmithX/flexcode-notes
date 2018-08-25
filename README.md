@@ -1,4 +1,4 @@
 # FlexCode Cleveland Fall 2018
 
-We established our [Expecations](./expectations.md) together.
+We established our [expecations](./expectations.md) together.
 
