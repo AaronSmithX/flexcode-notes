@@ -14,6 +14,11 @@ We established our [expectations](./expectations.md) together.
 |Group Review Session, 7-9pm|September 18|
 |Virtual Pet Shelter Due 9am|September 19|
 |Code Jam 3|September 22-23|
+|Group Review Session, 7-9pm|September 25|
+|Virtual Pets Amok Due 9am|September 26|
+|Group Review Session, 7-9pm|October 2|
+|Reviews Site Due 9am|October 3|
+|Code Jam 4|October 6-7|
 
 
 ## Cheatsheets
